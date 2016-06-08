@@ -2,7 +2,9 @@
   "name": "mquery-each",
   "description": "Traverse a mongo query-like object. Similar to `traverse`",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "lodash.isobject": "^3.0.2"
+  },
   "scripts": {
     "lint": "xo './!(node_modules|test)/**' *",
     "inspect": "jsinspect",
