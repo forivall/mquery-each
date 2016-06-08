@@ -1,6 +1,6 @@
 {
-  "name": "$NAME",
-  "description": "$DESCRIPTION",
+  "name": "mquery-each",
+  "description": "Traverse a mongo query-like object. Similar to `traverse`",
   "version": "0.0.0",
   "dependencies": {},
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:forivall/$NAME.git"
+    "url": "git@github.com:forivall/mquery-each.git"
   },
   "xo": {
     "space": 2,
