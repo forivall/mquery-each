@@ -1,6 +1,5 @@
 'use strict';
 
-var isArray = require('lodash.isarray');
 var isObject = require('lodash.isobject');
 
 module.exports = function queryEach(query, fn) {
