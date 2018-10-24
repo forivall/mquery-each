@@ -15,7 +15,7 @@ npm install --save mquery-each
 ## Usage
 
 ## Credits
-[Jordan Klassen](https://github.com/forivall/)
+[Emily Marigold Klassen](https://github.com/forivall/)
 
 ## License
 
