@@ -7,6 +7,6 @@ declare function queryEach(query: {
   }
 }, fn: (this: {
   pop(op: string): undefined | primitive | primitive[]
-}, key: string, value: undefined | primitive | primitive[], op: string) => void)
+}, key: string, value: undefined | primitive | primitive[], op: string) => void): void
 
 export = queryEach
