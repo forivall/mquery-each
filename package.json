@@ -25,7 +25,7 @@
     "coveralls": "^2.11.9",
     "jsinspect": "^0.8.0",
     "nyc": "^6.4.4",
-    "xo": "^0.15.1"
+    "xo": "^0.53.1"
   },
   "repository": {
     "type": "git",
